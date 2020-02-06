@@ -23,6 +23,6 @@ Email : https://geunwoong.sim@gmail.com
 - 기간 : 2016.10 ~ 
 - 내용 : iOS 개발 및 서비스
 - 사용기술 : iOS, Swift, Alamofire, Kanna,Reachability
-- AppStore : 
+- AppStore : https://itunes.apple.com/kr/app/id1490702439
 - facebook : https://www.facebook.com/dsisdevelopers
 
