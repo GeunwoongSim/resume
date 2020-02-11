@@ -59,5 +59,5 @@ BAEKJOON : https://www.acmicpc.net/user/underside
 
 
 
-<img src="Image/thisis_1.jpeg" width="160"> <img src="Image/thisis_2.jpeg" width="160"> <img src="Image/thisis_3.jpeg" width="160">
+<img src="Image/thisis_1.png" width="160"> <img src="Image/thisis_2.png" width="160"> <img src="Image/thisis_3.png" width="160">
 
