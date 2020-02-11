@@ -40,7 +40,7 @@ BAEKJOON : https://www.acmicpc.net/user/underside
 
 - 취득 : 2017.11.25
 
-<img src = "image/SWTest_1.png" width = "400">
+<img src = "Image/SWTest_1.png" width = "400">
 
   
 
@@ -59,5 +59,5 @@ BAEKJOON : https://www.acmicpc.net/user/underside
 
 
 
-<img src="image/thisis_1.jpeg" width="160"> <img src="image/thisis_2.jpeg" width="160"> <img src="image/thisis_3.jpeg" width="160">
+<img src="Image/thisis_1.jpeg" width="160"> <img src="Image/thisis_2.jpeg" width="160"> <img src="Image/thisis_3.jpeg" width="160">
 
