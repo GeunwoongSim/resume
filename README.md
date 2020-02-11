@@ -22,7 +22,7 @@ BAEKJOON : https://www.acmicpc.net/user/underside
 - 직급 : 학생연구원
 - 내용 : 대인관계 개선 VR 콘테츠 생성을위한 저작도구 설계와 구현 [단편논문]
 
-<img src = "Image/KCSE_1.png" height = "300">
+<img src = "Image/KCSE_1.png" height = "250">
 
 ### 디스이즈
 - 기간 : 2016.10 ~  
@@ -34,7 +34,7 @@ BAEKJOON : https://www.acmicpc.net/user/underside
 - 직급 : PM부장
 - 내용 : 제 9회 컴퓨터공학과 소프트웨어 전시회(2017.12.01) 진행
 
-<img src = "Image/cpu_1.png" width = "300"> <img src = "Image/cpu_2.png" height = "300">
+<img src = "Image/cpu_1.png" width = "250"> <img src = "Image/cpu_2.png" height = "250">
 
 ### 도전학기제
 - 기간 : 2019.03.01 ~ 2019.06.13
@@ -44,7 +44,7 @@ BAEKJOON : https://www.acmicpc.net/user/underside
 
 - 취득 : 2017.11.25
 
-<img src = "Image/SWTest_1.png" height = "300">
+<img src = "Image/SWTest_1.png" height = "250">
 
   
 
