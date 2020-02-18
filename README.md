@@ -15,7 +15,7 @@ BAEKJOON : https://www.acmicpc.net/user/underside
 ### 동아대학교 정보통신실험실
 - 기간 : 2018.06.01 ~ 2019.05.31
 - 직급 : 학생연구원
-- 내용 : VR을 이용한 대인 관계 개선 시스템 개발, unity
+- 내용 : VR을 이용한 대인 관계 개선 시스템 개발, Unity, TortoiseSVN
 
 ### 2019 한국 소프트웨어공학 학술대회(KCSE 2019) 발표
 - 기간 : 2019.01.28 ~ 2019.01.30(수)
@@ -26,7 +26,8 @@ BAEKJOON : https://www.acmicpc.net/user/underside
 
 ### 디스이즈
 - 기간 : 2016.10 ~  
-- 직급 : iOS팀 팀원(2016), iOS팀 팀장(2017), 전체팀 팀장(2018)
+- 직급 : iOS팀 팀원(2016,2019), iOS팀 팀장(2017), 디스이즈팀 팀장(2018)
+- 홈페이지 : https://dsisteam.com
 - facebook : https://www.facebook.com/dsisdevelopers
 
 ### 학술동아리 CPU
@@ -48,6 +49,8 @@ BAEKJOON : https://www.acmicpc.net/user/underside
 
   
 
+
+
 ## 프로젝트
 
 ### 디스이즈
@@ -57,7 +60,7 @@ BAEKJOON : https://www.acmicpc.net/user/underside
 
 - 기간 : 2020.02.04 ~ 
 
-- 사용기술 : iOS, Swift, Alamofire, Kanna,Reachability
+- 사용기술 : iOS, Swift, Alamofire, Kanna, Reachability
 
 - AppStore : https://itunes.apple.com/kr/app/id1490702439
 
