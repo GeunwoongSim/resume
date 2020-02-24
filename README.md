@@ -44,6 +44,7 @@ BAEKJOON : https://www.acmicpc.net/user/underside
 ### 삼성 SW 역량테스트 Level A
 
 - 취득 : 2017.11.25
+- 사용언어 : C++
 
 <img src = "Image/SWTest_1.png" height = "250">
 
