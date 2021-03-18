@@ -12,12 +12,6 @@ BAEKJOON : https://www.acmicpc.net/user/underside
 
 ## 활동
 
-### 동아대학교 정보통신실험실
-- 기간 : 2018.06.01 ~ 2019.05.31
-- 직급 : 학생연구원
-- 내용 : VR을 이용한 대인 관계 개선 시스템 개발
-- 사용 기술 : Unity ( C# ), TortoiseSVN
-
 ### 2019 한국 소프트웨어공학 학술대회(KCSE 2019) 발표
 - 기간 : 2019.01.28 ~ 2019.01.30(수)
 - 직급 : 학생연구원
@@ -26,8 +20,8 @@ BAEKJOON : https://www.acmicpc.net/user/underside
 <img src = "Image/KCSE_1.png" height = "250">
 
 ### 디스이즈
-- 기간 : 2016.10 ~  
-- 직급 : iOS팀 팀원(2016,2019), iOS팀 팀장(2017), 디스이즈팀 팀장(2018)
+- 기간 : 2016.10 ~  2020.09
+- 직급 : iOS팀 팀원(2016,2019,2020), iOS팀 팀장(2017), 디스이즈 팀장(2018)
 - 홈페이지 : https://dsisteam.com
 - facebook : https://www.facebook.com/dsisdevelopers
 
@@ -47,26 +41,28 @@ BAEKJOON : https://www.acmicpc.net/user/underside
 - 취득 : 2017.11.25
 - 사용언어 : C++
 
-<img src = "Image/SWTest_1.png" height = "250">
-
-  
+<img src = "Image/SWTest_1.png" height = "250">  
 
 
 
 ## 프로젝트
 
+### VR을 이용한 대인 관계 개선 시스템 개발
+
+- 소속 : 동아대학교 정보통신실험실
+- 기간 : 2018.06.01 ~ 2019.05.31
+- 직급 : 학생연구원
+- 사용기술 : Unity ( C# ), TortoiseSVN
+
 ### 디스이즈
+
 - 소개 : 스마트캠퍼스 애플리케이션
 
 - 소속 : This is
 
-- 기간 : 2020.02.04 ~ 
+- 기간 : 2020.02.04 ~ 2021.01.22
 
 - 사용기술 : iOS, Swift, Alamofire, Kanna, Reachability
-
-- AppStore : https://itunes.apple.com/kr/app/id1490702439
-
-
 
 <img src="Image/thisis_1.png" width="200"> <img src="Image/thisis_2.png" width="200"> <img src="Image/thisis_3.png" width="200">
 
