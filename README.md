@@ -10,7 +10,7 @@ BAEKJOON : https://www.acmicpc.net/user/underside
 
 
 
-## 활동
+# 활동
 
 ### 2019 한국 소프트웨어공학 학술대회(KCSE 2019) 발표
 - 기간 : 2019.01.28 ~ 2019.01.30(수)
@@ -45,7 +45,7 @@ BAEKJOON : https://www.acmicpc.net/user/underside
 
 
 
-## 프로젝트
+# 프로젝트
 
 ### VR을 이용한 대인 관계 개선 시스템 개발
 
