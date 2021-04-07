@@ -54,6 +54,8 @@ BAEKJOON : https://www.acmicpc.net/user/underside
 - 직급 : 학생연구원
 - 사용기술 : Unity ( C# ), TortoiseSVN
 
+<img src="Image/vr_1.png" width="400"><img src="Image/vr_2.png" width="400">
+
 ### 디스이즈
 
 - 소개 : 스마트캠퍼스 애플리케이션
